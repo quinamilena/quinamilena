@@ -4,6 +4,12 @@ My name is Milena Quina, I'm 22 years old and I live in Brazil.
 
 I'm currently working as a Frontend-Developer.
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/milena-quina-5342581ab/" target="_blank">
+      <img src="https://img.shields.io/badge/-Linkedin-blue?logo=Linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/milena-quina-5342581ab/" />
+  </a>
+</p>
+
 ### :computer: Skills
 
 ![HTML](https://img.shields.io/badge/-HTML-orange?logo=HTML5&logoColor=white&style=for-the-badge)
