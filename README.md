@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Milena Quina, I'm 22 years old and I live in Brasil.
+My name is Milena Quina, I'm 22 years old and I live in Brazil.
 
 I'm currently working as a Frontend-Developer.
 
