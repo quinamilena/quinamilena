@@ -14,3 +14,9 @@ I'm currently working as a Frontend-Developer.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=MongoDB&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/-Firebase-yellow?logo=Firebase&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-black?logo=Git&logoColor=red&style=for-the-badge)
+
+<p align="center">
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quinamilena&layout=compact&theme=dracula" />
+  </a>
+</p>
