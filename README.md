@@ -6,7 +6,7 @@
 <p>
 Trabalhando no <b>Grupo iv2</b> <br/>
 
-Eu sou desenvolvedora **full-stack**.
+Eu sou desenvolvedora **full-stack** C# e Angular.
 </p>
 <hr>
 
