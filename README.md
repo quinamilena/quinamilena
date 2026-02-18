@@ -1,7 +1,8 @@
 ## 💚 Olá, meu nome é <strong>{Milena Quina}!</strong>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=quinamilena&theme=blueberry-duo&border_radius=8&locale=pt_BR&short_numbers=true)](https://git.io/streak-stats)
-
+<p align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=quinamilena&theme=blueberry-duo&border_radius=8&locale=pt_BR&short_numbers=true)](https://git.io/streak-stats)
+</p>
 
 <p>
 Trabalhando no <b>Grupo iv2</b> <br/>
