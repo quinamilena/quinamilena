@@ -1,6 +1,6 @@
 ## 💚 Olá, meu nome é <strong>{Milena Quina}!</strong>
 
-<img align='right' height="165em" src="https://github-readme-stats.vercel.app/api?username=quinamilena&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=quinamilena&theme=blueberry-duo&border_radius=8&locale=pt_BR&short_numbers=true)](https://git.io/streak-stats)
 
 
 <p>
